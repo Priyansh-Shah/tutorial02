@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Us</string>
+    <string name="main_content">Welcome to our first Android Application.
+                  We are very passionate about developing applications. Lets explore various features of the application. We hope your first exprience of using our application would be best. </string>
+    <string name="developer_team">Developer Team</string>
+    <string name="firstname">Rutika Sorthiya</string>
+    <string name="email">rsorthiya200@rku.ac.in</string>
+    <string name="contact_no">94891*****</string>
+    <string name="secondname">Priyansh Shah</string>
+    <string name="email2">pshah652@rku.ac.in</string>
+    <string name="contact_no2">91730*****</string>
+    <string name="thirdname">Raj Nakum</string>
+    <string name="email3">rnakum007@rku.ac.in</string>
+    <string name="contact_no3">94781*****</string>
+    <string name="contact_main">Get in Touch With Us</string>
+</resources>
